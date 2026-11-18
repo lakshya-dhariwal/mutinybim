@@ -99,4 +99,4 @@
     }
   },
   "include": ["bim-*/src/**/*.ts", "bim-*/src/**/*.tsx", "bim-*/__tests__/**/*.ts", "bim-*/__tests__/**/*.tsx", "bim-*/scripts/**/*.ts"]
-    }
+}
